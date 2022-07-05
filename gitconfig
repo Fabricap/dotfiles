@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = fabrizio.capeccia@outlook.it
+	name = Fabrizio Capeccia
